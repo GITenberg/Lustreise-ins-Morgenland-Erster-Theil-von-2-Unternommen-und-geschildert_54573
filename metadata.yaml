@@ -1,11 +1,16 @@
 _repo: Lustreise-ins-Morgenland-Erster-Theil-von-2-Unternommen-und-geschildert_54573
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 54573-h/images/cover.jpg
 creator:
   author:
     agent_name: Tobler, Titus
     gutenberg_agent_id: '47938'
     url: http://www.gutenberg.org/2009/agents/47938
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54573#Lustreise-ins-Morgenland-Erster-Theil-von-2-Unternommen-und-geschildert
 gutenberg_issued: '2017-04-19'
 gutenberg_type: Text
 identifiers:
